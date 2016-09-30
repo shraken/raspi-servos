@@ -4,7 +4,7 @@ Raspberry PI servo motor control for a pan-tilt system using an AVR atmega328 fo
 
 The timing critical PWM is generated on the atmega328.  A SPI slave with buffering and newline termination is fed into a processing block.  
 
-![raspi-servos](https://raw.githubusercontent.com/shraken/raspi-servos/shraken_image/raspi-servos.jpg)
+![raspi-servos](https://raw.githubusercontent.com/shraken/raspi-servos/master/raspi-servos.jpg)
 
 ## Building
 
